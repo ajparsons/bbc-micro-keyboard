@@ -1,4 +1,4 @@
-# bbcmicro-keyboard
+# bbc-micro-keyboard
 
 CircuitPython code to convert BBC Micro keyboard to HID controller. See [code.py](code.py).
 
